@@ -4,7 +4,7 @@
   <div class="pull-right hidden-xs">
     <b>Sistem Pakar - </b>Penyakit Domba
   </div>
-  <strong>Copyright &copy; 2021 Wahyu Rama.</strong> All rights
+  <strong>Copyright &copy; <?=date("Y");?> Mr X</strong> All rights
   reserved.
 </footer>
 

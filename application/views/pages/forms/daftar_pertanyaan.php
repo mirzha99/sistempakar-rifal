@@ -132,7 +132,7 @@
             </div><!-- /.info-box -->
 
             <script>
-            var base_url = 'http://ta.mif-project.com/E31170392/'
+            var base_url = 'http://localhost/sistempakar/'
             var api_rule = base_url+'api_rule'
 
             let rule_list = []
